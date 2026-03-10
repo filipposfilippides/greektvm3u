@@ -18,7 +18,7 @@ https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://i.imgur.com/72GOh2Z.png",OPEN TV HD
 https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 #EXTINF:400 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mak" tvg-logo="https://i.imgur.com/55NSQ50.png",MAK. HD
-https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/6415884360001/playlist_dvr.m3u8
+https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="ectacy" tvg-logo="",ECTACY TV
 https://eu1.servers10.com:8081/8380/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="" tvg-logo="https://i.imgur.com/K6Glpip.png",GROOVY
